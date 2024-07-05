@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**andres7347/andres7347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"""
+- 🔭 I’m currently working on Empleado publico.
+- 🌱 I’m currently learning programacion.
+- 👯 I’m looking to collaborate on proyectos.
+- 🤔 I’m looking for help with logica y estructura de datos.
+- 💬 Ask me about andresguzman
+- 📫 How to reach me: matematica
+- 😄 Pronouns: Andres
+- ⚡ Fun fact: ninguno
+"""
